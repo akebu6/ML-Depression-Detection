@@ -7,6 +7,7 @@ This is an ML project whose tech stack is still under review and shall be consta
 # Tech Stack
 + Python: for the backend
 + Django: for the website
++ Ml: for analysis
 
 # Documentation
 
