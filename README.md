@@ -7,9 +7,11 @@ This is an ML project whose tech stack is still under review and shall be consta
 # Tech Stack
 + Python: for the backend
 + Django: for the website
-+ Ml: for analysis
++ ML: for analysis
 
 # Documentation
+
+## Alogrithm Choice
 
 # References
 For the references used in the research and Development of this project, vist the following [page](https://github.com/akebu6/FYP/wiki/References)
