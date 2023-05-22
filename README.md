@@ -11,7 +11,9 @@ This is an ML project whose tech stack is still under review and shall be consta
 
 # Documentation
 
-## Alogrithm Choice
+## Alogrithm
++ CNN
++ XGBoost
 
 # References
 For the references used in the research and Development of this project, vist the following [page](https://github.com/akebu6/FYP/wiki/References)
