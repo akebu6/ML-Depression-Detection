@@ -1,4 +1,4 @@
-# FYP
+# ML Depression Detection
 > This is a repo for my ML project about detecting depression using CNN and XGBoost
 
 # About
