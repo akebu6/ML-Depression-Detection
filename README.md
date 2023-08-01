@@ -1,5 +1,5 @@
 # FYP
-> This is a repo for my senior final year project
+> This is a repo for my ML project about detecting depression using CNN and XGBoost
 
 # About
 This is an ML project whose tech stack is still under review and shall be constantly updated whenever more info concerning the project have been found
