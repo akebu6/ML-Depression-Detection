@@ -9,11 +9,18 @@ This is an ML project whose tech stack is still under review and shall be consta
 + Django: for the website
 + ML: for analysis
 
-# Documentation
+# Features
 
-## Alogrithm
-+ CNN
-+ XGBoost
+# Process
+
+# Learnings
+
+# Improvement
+
+# Running the Projects
+
+# Images/Video
+
 
 # References
 For the references used in the research and Development of this project, vist the following [page](https://github.com/akebu6/FYP/wiki/References)
